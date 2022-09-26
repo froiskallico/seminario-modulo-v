@@ -5,7 +5,7 @@ Repositório para projeto do Seminário Interdisciplinar do módulo 5: Implement
 Alunos: 
   - Edson Gilmar Rojas Mamani 
   - [Kallico Fróis Costa da Silva](https://github.com/froiskallico)
-  - [Miliel Rosa de Lima](mailto:milielcorassari@gmail.com)
+  - [Miliel Rosa de Lima](https://github.com/milielcorassari)
   
 Tutor:
   - [Aluisio Anderson da Silveira](mailto:23686@tutor.uniasselvi.com.br)
